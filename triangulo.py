@@ -8,7 +8,7 @@ x1 = float(input('Digite um ponto para x1:'))
 y1 = float(input('Digite um ponto para x2:'))
 
 x2 = float(input('Digite um ponto para x2:'))
-y2 = float(input('Digite um ponto para y2'))
+y2 = float(input('Digite um ponto para y2:'))
 
 x3 = float(input('Digite um ponto para x3:'))
 y3 = float(input('Digite um ponto para y3:'))
